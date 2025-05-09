@@ -1,7 +1,10 @@
 ![preview_image](https://i.imgur.com/7OMbq7W.png)
 
-# Edited bub-multichar and converted it to ESX with some UI changes.
-NUI  EDIT CREDITS: Thomas - https://discord.gg/NQB95SgJ
+# Edited bub-multichar converted to ESX with some UI changes.
+
+# Credits: 
+Thomas: https://github.com/Thomasdev18/
+Bubble: https://github.com/BubbleDK/
 
 # bub-multichar
  
